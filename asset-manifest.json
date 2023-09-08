@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/WEBJOBS/static/css/main.845b6b8c.chunk.css",
+    "main.js": "/WEBJOBS/static/js/main.0da13c82.chunk.js",
+    "main.js.map": "/WEBJOBS/static/js/main.0da13c82.chunk.js.map",
+    "runtime-main.js": "/WEBJOBS/static/js/runtime-main.eb8a73b0.js",
+    "runtime-main.js.map": "/WEBJOBS/static/js/runtime-main.eb8a73b0.js.map",
+    "static/js/2.aa364197.chunk.js": "/WEBJOBS/static/js/2.aa364197.chunk.js",
+    "static/js/2.aa364197.chunk.js.map": "/WEBJOBS/static/js/2.aa364197.chunk.js.map",
+    "static/js/3.31e2e173.chunk.js": "/WEBJOBS/static/js/3.31e2e173.chunk.js",
+    "static/js/3.31e2e173.chunk.js.map": "/WEBJOBS/static/js/3.31e2e173.chunk.js.map",
+    "index.html": "/WEBJOBS/index.html",
+    "static/css/main.845b6b8c.chunk.css.map": "/WEBJOBS/static/css/main.845b6b8c.chunk.css.map",
+    "static/js/2.aa364197.chunk.js.LICENSE.txt": "/WEBJOBS/static/js/2.aa364197.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/WEBJOBS/static/media/bg-pattern-header.f3307602.svg",
+    "static/media/blogr.svg": "/WEBJOBS/static/media/blogr.68f4bc4b.svg",
+    "static/media/coffeeroasters.svg": "/WEBJOBS/static/media/coffeeroasters.70ce77da.svg",
+    "static/media/creative.svg": "/WEBJOBS/static/media/creative.af94119f.svg",
+    "static/media/crowdfund.svg": "/WEBJOBS/static/media/crowdfund.1aee1724.svg",
+    "static/media/icon-filter.2471816d.svg": "/WEBJOBS/static/media/icon-filter.2471816d.svg",
+    "static/media/icon-location.325ff3d9.svg": "/WEBJOBS/static/media/icon-location.325ff3d9.svg",
+    "static/media/icon-sun.9422c153.svg": "/WEBJOBS/static/media/icon-sun.9422c153.svg",
+    "static/media/maker.svg": "/WEBJOBS/static/media/maker.b6f34b79.svg",
+    "static/media/mastercraft.svg": "/WEBJOBS/static/media/mastercraft.a98383d0.svg",
+    "static/media/officelite.svg": "/WEBJOBS/static/media/officelite.34773de6.svg",
+    "static/media/pod.svg": "/WEBJOBS/static/media/pod.3c73e377.svg",
+    "static/media/pomodoro.svg": "/WEBJOBS/static/media/pomodoro.a786dc9a.svg",
+    "static/media/scoot.svg": "/WEBJOBS/static/media/scoot.345a4bfd.svg",
+    "static/media/typemaster.svg": "/WEBJOBS/static/media/typemaster.a31ba959.svg",
+    "static/media/vector.svg": "/WEBJOBS/static/media/vector.d9c0112a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb8a73b0.js",
+    "static/js/2.aa364197.chunk.js",
+    "static/css/main.845b6b8c.chunk.css",
+    "static/js/main.0da13c82.chunk.js"
+  ]
+}
